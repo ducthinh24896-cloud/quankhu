@@ -31,13 +31,13 @@ icon:Newspaper
 },
 
 {
-name:"Tân binh",
+name:"Tân binh mới",
 href:"/tan-binh",
 icon:Gamepad2
 },
 
 {
-name:"Trò chơi",
+name:"Trò chơi vui",
 href:"/tro-choi",
 icon:Gamepad2
 },

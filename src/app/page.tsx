@@ -19,7 +19,7 @@ export default function Home() {
         </div>
 
         <div className="bg-white shadow p-6 rounded-xl">
-          🎮 Trò chơi ôn luyện
+          🎮 Trò chơi ôn luyện tập
         </div>
       </div>
     </div>
