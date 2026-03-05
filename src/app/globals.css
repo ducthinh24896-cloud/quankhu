@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+  font-family: sans-serif;
+}
+
+.bg-army{
+  background-color:#355e3b;
+}
